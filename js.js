@@ -43,7 +43,6 @@ $(".add").click(
 );
 
 var waittime = 0;
-if()
 $(".fill_stock").click(
   function(){
     $(".fill_stock").text("联系中......");
